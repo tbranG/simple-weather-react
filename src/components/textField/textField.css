@@ -1,0 +1,13 @@
+.textField{
+    padding: .6em 2em;
+    margin-bottom: 10px;
+
+    border-radius: 50px;
+    background-color: white;
+
+    border: 1px solid black;
+}
+.textField:focus{
+    outline: none;
+    border: 1px solid goldenrod !important;
+}

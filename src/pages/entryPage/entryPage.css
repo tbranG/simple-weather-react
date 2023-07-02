@@ -1,0 +1,50 @@
+#entry-page-panel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 7px 7px 2px gray;
+    
+    width: 30vw;
+    min-height: 60vh;
+
+    margin: 0 auto;
+    padding: 2em 0 2em;
+}
+#entry-page-body{
+    padding-top: 10vh;
+}
+#entry-page-logo{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 2em;
+}
+#entry-page-logo img{
+    height: 8em;
+    width: 8em;
+}
+
+h1{
+    font-family: monospace;
+    font-weight: 100;
+    font-size: 2.5em;
+}
+form button{
+    display: block;
+    margin: 0 auto;
+
+    background: none;
+    border: none;
+}
+form img{
+    height: 5em;
+    width: 5em;
+
+}
