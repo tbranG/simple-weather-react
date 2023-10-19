@@ -1,2 +1,2 @@
 # Simple-Weather
-Aplicação web para consulta da previsão do tempo. Desenvolvido em React
+React application for weather forecast using Free Weather API
